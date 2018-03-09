@@ -1,8 +1,5 @@
 //-----------3 Layer Neural Network using ANSI C------------------------------//
-//Prashant Kumar Mahanta
-//201601066
 //Wasim Ishaq Khan
-//201601107
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
